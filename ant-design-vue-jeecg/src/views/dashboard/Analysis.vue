@@ -132,6 +132,14 @@
         </a-card>
       </a-col>
     </a-row>
+    <!--是-->
+
+    <div>
+      <h1>我是啊发生的方式</h1>
+      <hr>
+
+    </div>
+
   </div>
 </template>
 
